@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "fonte";
+    src:url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap')
+}
+body{
+    background-color: #001219;
+}
+h1{ 
+    font-family: "fonte";
+    color: #ee9b00;
+    text-align: center;
+}
+img{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 200px;
+    height: px;
+}  
+.bg-inf{
+    opacity: 0.5;
+    background-color: aqua;
+    box-shadow: 5px 5px 5px #fff;
+    font-family: "fonte";
