@@ -1,2 +1,3 @@
 # strike-filmes
-meu primeiro projeto para mim iniiciar 
+meu primeiro projeto como inicante
+esse projeto foi aonde eu aprendi um catalogo de filmes 
